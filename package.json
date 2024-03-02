@@ -1,0 +1,19 @@
+{
+  "name": "dimonpakim0n",
+  "version": "1.0.0",
+  "description": "Basic demonstration app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ramirop89/tea-demonstration.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ramirop89/tea-demonstration/issues"
+  },
+  "homepage": "https://github.com/ramirop89/tea-demonstration#readme"
+}
