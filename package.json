@@ -1,6 +1,6 @@
 {
   "name": "dimonpakim0n",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic demonstration app",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ramirop89/tea-demonstration.git"
+    "url": "https://github.com/ramirop89/tea-demonstration.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "1.0.0"
   },
   "author": "",
   "license": "ISC",
